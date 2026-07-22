@@ -7,8 +7,7 @@ My main interests are game development, gameplay systems, backend development, d
 ## What I work with
 
 * Unity / C# for gameplay systems, UI, save systems, quest systems, and interactive prototypes
-* Java, Spring Boot, REST APIs, SQL, and backend application development
-* Python for data analysis, recommendation systems, computer vision experiments, and academic projects
+* Python for data analysis and academic projects
 * Arduino / ESP32 for hardware interaction, sensors, displays, and Unity-connected prototypes
 * Git, GitHub, Docker, and collaborative development workflows
 
@@ -21,9 +20,7 @@ I'm currently working on game development and interactive technology projects, i
 * Unity gameplay systems and game architecture
 * Quest, dialogue, reward, inventory, save/load, and UI systems
 * Hardware interaction with Unity using microcontrollers and sensors
-* Recommendation systems based on real-world datasets
 * Computer graphics and ray tracing experiments
-* Backend and web applications
 
 ## Languages
 
